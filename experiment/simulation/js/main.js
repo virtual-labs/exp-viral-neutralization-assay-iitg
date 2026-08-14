@@ -3,19 +3,19 @@ document.addEventListener('DOMContentLoaded', () => {
     const steps = [
         {
             src: './images/Step1.mp4',
-            caption: 'Step 1: Test and control serum samples are incubated in a water bath at 56 °C for 30 minutes to inactivate complement proteins that might otherwise cause non-specific cell lysis.'
+            caption: 'Step 1: Serially dilute the inactivated test serum using fresh culture medium'
         },
         {
             src: './images/Step2.mp4',
-            caption: 'Step 2: Serially dilute the inactivated test serum using fresh culture medium across the wells of a sterile microtiter plate to evaluate the neutralization limit.'
+            caption: 'Step 2: Add a constant volume of virus suspension to each serum dilution, and incubate the mixture at 37 °C for 1 hour.'
         },
         {
             src: './images/Step3.mp4',
-            caption: 'Step 3: Add a constant volume of virus suspension to each serum dilution, and incubate the mixture at 37 °C for 1 hour to permit neutralizing antigen-antibody binding.'
+            caption: 'Step 3: Inoculate the virus-serum mixtures onto susceptible cells'
         },
         {
             src: './images/Step4.mp4',
-            caption: 'Step 4: Inoculate the virus-serum mixtures onto a monolayer of susceptible host cells (e.g., Vero cells), incubate for 2–5 days, and monitor microscopically for cytopathic effects (CPE).'
+            caption: 'Step 4: Incubate for 2–5 days, and monitor microscopically for cytopathic effects (CPE).'
         }
     ];
 
