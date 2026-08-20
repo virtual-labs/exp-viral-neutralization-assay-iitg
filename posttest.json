@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What indicates successful neutralization after incubation?",
+    "answers": {
+      "a": "Cell lysis",
+      "b": "Healthy intact cells",
+      "c": "Increased CPE",
+      "d": "Cell detachment"
+    },
+    "correctAnswer": "b",
+    "explanations": {
+      "a": "Incorrect. Cell lysis is a form of cytopathic effect (CPE) indicating active viral infection and cell death.",
+      "b": "Correct. If neutralizing antibodies are successful, they block the virus from entering host cells, leaving the cell monolayer completely healthy and intact.",
+      "c": "Incorrect. Increased CPE indicates that the virus has successfully infected the cells and is multiplying, meaning neutralization failed.",
+      "d": "Incorrect. Cell detachment is a morphological sign of viral cytopathic damage."
+    }
+  },
+  {
+    "question": "If antibodies are absent, what happens?",
+    "answers": {
+      "a": "Virus infects cells and causes CPE",
+      "b": "Cells remain healthy",
+      "c": "Virus disappears",
+      "d": "No reaction occurs"
+    },
+    "correctAnswer": "a",
+    "explanations": {
+      "a": "Correct. Without neutralizing antibodies to block the virus, the free virions will attach to, enter, and replicate inside the host cells, resulting in visible CPE.",
+      "b": "Incorrect. Cells will undergo cytopathic structural changes and lyse in the absence of protective antibodies.",
+      "c": "Incorrect. The virus will proliferate and increase in count, not disappear.",
+      "d": "Incorrect. An active viral infection of the cells takes place."
+    }
+  },
+  {
+    "question": "Why are serial dilutions of serum prepared?",
+    "answers": {
+      "a": "To sterilize serum",
+      "b": "To remove proteins",
+      "c": "To increase virus growth",
+      "d": "To determine antibody titer"
+    },
+    "correctAnswer": "d",
+    "explanations": {
+      "a": "Incorrect. Serial dilution decreases concentration but does not sterilize or kill contaminating microbes.",
+      "b": "Incorrect. Dilutions do not chemically extract or separate proteins from the serum.",
+      "c": "Incorrect. Diluting the serum does not promote viral growth.",
+      "d": "Correct. Serial dilutions allow researchers to identify the minimum concentration of serum (or highest dilution factor) that can successfully block viral infectivity, which defines the antibody titer."
+    }
+  },
+  {
+    "question": "Neutralization titer is defined as:",
+    "answers": {
+      "a": "Lowest virus concentration",
+      "b": "Highest serum dilution preventing CPE",
+      "c": "Number of cells present",
+      "d": "Total antibodies formed"
+    },
+    "correctAnswer": "b",
+    "explanations": {
+      "a": "Incorrect. The concentration of the virus is kept constant throughout the wells of the assay.",
+      "b": "Correct. Neutralization titer is the highest dilution factor (or lowest concentration) of the serum sample that still completely prevents visible cytopathic effects.",
+      "c": "Incorrect. The number of host cells seeded is kept uniform in all wells.",
+      "d": "Incorrect. The titer measures functional neutralizing capability, not total immunoglobulin counts."
+    }
+  },
+  {
+    "question": "Virus control contains:",
+    "answers": {
+      "a": "Cells only",
+      "b": "Serum only",
+      "c": "Virus without serum",
+      "d": "Medium only"
+    },
+    "correctAnswer": "c",
+    "explanations": {
+      "a": "Incorrect. A sample with cells only (and no virus) is the cell control.",
+      "b": "Incorrect. Serum control does not evaluate virus performance.",
+      "c": "Correct. The virus control well contains host cells inoculated with the test virus suspension alone (without any protective serum) to verify that the virus is active and causes expected CPE.",
+      "d": "Incorrect. Medium only does not serve as a virus control."
+    }
+  },
+  {
+    "question": "Cell control contains:",
+    "answers": {
+      "a": "Cells without virus",
+      "b": "Virus only",
+      "c": "Serum only",
+      "d": "Antibody only"
+    },
+    "correctAnswer": "a",
+    "explanations": {
+      "a": "Correct. The cell control well contains host cells growing in medium without any virus, serving to confirm that the cell monolayer remains healthy under normal experimental conditions.",
+      "b": "Incorrect. Inoculating with virus only is the virus control.",
+      "c": "Incorrect. Serum alone does not demonstrate host cell baseline viability without virus.",
+      "d": "Incorrect. Antibodies are not added to the cell control wells."
+    }
+  },
+  {
+    "question": "Incubation of virus-serum mixture allows:",
+    "answers": {
+      "a": "Cell division",
+      "b": "DNA replication",
+      "c": "Media sterilization",
+      "d": "Antigen-antibody interaction"
+    },
+    "correctAnswer": "d",
+    "explanations": {
+      "a": "Incorrect. Host cells are not present in the mixture tube during the first incubation phase.",
+      "b": "Incorrect. No replication machinery is active during the cell-free virus-serum incubation.",
+      "c": "Incorrect. Incubation at 37°C does not sterilize media.",
+      "d": "Correct. This step allows time for neutralizing antibodies present in the diluted serum to bind specifically to viral surface proteins before host cells are introduced."
+    }
+  },
+  {
+    "question": "Which of the following is a sign of CPE?",
+    "answers": {
+      "a": "Cell growth",
+      "b": "Cell rounding",
+      "c": "Clear nucleus",
+      "d": "Increased medium volume"
+    },
+    "correctAnswer": "b",
+    "explanations": {
+      "a": "Incorrect. Successful viral infection results in cell death or growth arrest, not cell growth.",
+      "b": "Correct. Cell rounding is one of the earliest and most classic morphological indicators of cytopathic cell damage before detachment or lysis.",
+      "c": "Incorrect. Viral infection often disrupts the nucleus, forming inclusions or causing karyorrhexis rather than clarifying it.",
+      "d": "Incorrect. Medium volume remains unchanged during the assay."
+    }
+  },
+  {
+    "question": "Post-infection incubation is usually for:",
+    "answers": {
+      "a": "5 minutes",
+      "b": "30 minutes",
+      "c": "2–5 days",
+      "d": "10 days only"
+    },
+    "correctAnswer": "c",
+    "explanations": {
+      "a": "Incorrect. 5 minutes is too short for viral entry, transcription, translation, and replication.",
+      "b": "Incorrect. 30 minutes is not enough time to allow visible cytopathic structural changes to manifest.",
+      "c": "Correct. Plated cell cultures are incubated for 2 to 5 days to allow multiple replication cycles of non-neutralized virus to spread and cause visible CPE.",
+      "d": "Incorrect. 10 days is unnecessarily long and can lead to cell monolayer starvation or death due to nutrient exhaustion."
+    }
+  },
+  {
+    "question": "Why are control samples important?",
+    "answers": {
+      "a": "To compare and validate results",
+      "b": "To increase contamination",
+      "c": "To stop viral growth",
+      "d": "To remove antibodies"
+    },
+    "correctAnswer": "a",
+    "explanations": {
+      "a": "Correct. Controls are essential to ensure the host cells are healthy (cell control) and the virus stock is active and infective (virus control), validating the assay's results.",
+      "b": "Incorrect. Controls are designed and run under strict aseptic conditions to prevent contamination.",
+      "c": "Incorrect. Controls are benchmarks for comparison and do not chemically arrest viral replication.",
+      "d": "Incorrect. Control wells do not remove antibodies from the test sample."
+    }
+  }
+]

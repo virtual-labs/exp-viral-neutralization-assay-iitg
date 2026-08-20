@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What is the main aim of a viral neutralization assay?",
+    "answers": {
+      "a": "To grow bacteria",
+      "b": "To detect neutralizing antibodies",
+      "c": "To count red blood cells",
+      "d": "To stain viruses"
+    },
+    "correctAnswer": "b",
+    "explanations": {
+      "a": "Incorrect. Bacterial culture uses specific agar media to cultivate bacteria, not cell cultures mixed with viral suspensions.",
+      "b": "Correct. The core goal of the assay is to identify and measure antibodies in a serum sample that can neutralize viral infectivity.",
+      "c": "Incorrect. Counting RBCs is done using a hemocytometer or automated cell counter, or relative concentration is evaluated in hemagglutination.",
+      "d": "Incorrect. Staining viruses is performed using dyes for microscopic imaging, not biological infectivity assays."
+    }
+  },
+  {
+    "question": "Neutralizing antibodies mainly block:",
+    "answers": {
+      "a": "Viral entry into host cells",
+      "b": "Cell division",
+      "c": "Protein synthesis in host cells",
+      "d": "DNA extraction"
+    },
+    "correctAnswer": "a",
+    "explanations": {
+      "a": "Correct. Neutralizing antibodies bind to essential viral surface proteins, preventing viral attachment, fusion, and entry into susceptible host cells.",
+      "b": "Incorrect. Neutralizing antibodies target extracellular virus particles rather than interfering with host cellular mitosis.",
+      "c": "Incorrect. These antibodies do not directly block translation or protein synthesis inside the cell.",
+      "d": "Incorrect. DNA extraction is a chemical purification method that is unaffected by antibodies."
+    }
+  },
+  {
+    "question": "Which cells are commonly used in viral neutralization assays?",
+    "answers": {
+      "a": "RBCs",
+      "b": "Platelets",
+      "c": "Vero cells",
+      "d": "Neurons"
+    },
+    "correctAnswer": "c",
+    "explanations": {
+      "a": "Incorrect. Red blood cells (RBCs) do not support replication of most mammalian viruses and are used in hemagglutination assays, not neutralization cell cultures.",
+      "b": "Incorrect. Platelets are cell fragments involved in blood clotting and do not serve as hosts for viral replication.",
+      "c": "Correct. Vero cells (derived from kidney epithelial cells of an African green monkey) are highly susceptible to many viruses and are widely used in host cell monolayers.",
+      "d": "Incorrect. Primary neurons are highly specialized, post-mitotic cells that are difficult to culture and maintain for standard assay panels."
+    }
+  },
+  {
+    "question": "Heat inactivation of serum is done at:",
+    "answers": {
+      "a": "37°C",
+      "b": "45°C",
+      "c": "56°C",
+      "d": "100°C"
+    },
+    "correctAnswer": "c",
+    "explanations": {
+      "a": "Incorrect. 37°C is physiological temperature and does not denature serum proteins.",
+      "b": "Incorrect. 45°C is insufficient to reliably inactivate all complement proteins.",
+      "c": "Correct. Incubating serum at 56°C for 30 minutes is the standard protocol for heat-inactivation.",
+      "d": "Incorrect. 100°C will boil the sample, denaturing target antibodies and coagulating serum proteins."
+    }
+  },
+  {
+    "question": "Heat inactivation helps to destroy:",
+    "answers": {
+      "a": "Antibodies",
+      "b": "Cell membrane",
+      "c": "Virus particles",
+      "d": "Complement proteins"
+    },
+    "correctAnswer": "d",
+    "explanations": {
+      "a": "Incorrect. IgG and IgM antibodies are relatively heat-stable at 56°C and remain functional.",
+      "b": "Incorrect. Serum is a cell-free liquid fraction of blood and does not contain cell membranes.",
+      "c": "Incorrect. The serum sample itself (from the host) is what is heat-inactivated; the active virus is added separately later.",
+      "d": "Correct. Heat inactivation selectively denatures heat-labile complement proteins, which could otherwise cause non-specific lysis of cells or enhance antibody-mediated effects."
+    }
+  },
+  {
+    "question": "What type of plate is commonly used in this assay?",
+    "answers": {
+      "a": "Petri plate",
+      "b": "Microtiter plate",
+      "c": "Glass slide",
+      "d": "Flask"
+    },
+    "correctAnswer": "b",
+    "explanations": {
+      "a": "Incorrect. Petri plates are typically used for solid agar cultures of bacteria and fungi.",
+      "b": "Correct. Standard 96-well microtiter plates are ideal for performing serial dilutions and handling multiple cell monolayer trials in parallel.",
+      "c": "Incorrect. Glass slides are used for staining and microscopically examining cells, not culturing assays over days.",
+      "d": "Incorrect. Flasks are used for scaling up cell lines, not for multi-well serial dilution assays."
+    }
+  },
+  {
+    "question": "Cytopathic effect (CPE) means:",
+    "answers": {
+      "a": "Cell damage due to virus",
+      "b": "Healthy cells",
+      "c": "Bacterial growth",
+      "d": "Antibody production"
+    },
+    "correctAnswer": "a",
+    "explanations": {
+      "a": "Correct. CPE refers to structural and morphological changes in host cells (such as rounding, fusion, or lysis) caused by viral replication.",
+      "b": "Incorrect. Successful neutralization prevents CPE, leaving the cell monolayer healthy.",
+      "c": "Incorrect. Bacterial contamination is distinct from viral cytopathic effects.",
+      "d": "Incorrect. Antibody production occurs in vivo by B cells, not in vitro on host cell monolayers."
+    }
+  },
+  {
+    "question": "Which instrument is essential for observing CPE?",
+    "answers": {
+      "a": "Thermometer",
+      "b": "Microscope",
+      "c": "Centrifuge",
+      "d": "Balance"
+    },
+    "correctAnswer": "b",
+    "explanations": {
+      "a": "Incorrect. A thermometer measures temperature but cannot visualize microscopic cells.",
+      "b": "Correct. An inverted light microscope is required to inspect the host cell monolayer and identify cytopathic morphological changes.",
+      "c": "Incorrect. A centrifuge separates mixtures based on density and is not used for cell visualization.",
+      "d": "Incorrect. A balance measures mass."
+    }
+  },
+  {
+    "question": "Virus neutralization assays are important in:",
+    "answers": {
+      "a": "Histology staining",
+      "b": "Cooking",
+      "c": "Agriculture only",
+      "d": "Vaccine studies"
+    },
+    "correctAnswer": "d",
+    "explanations": {
+      "a": "Incorrect. Histological staining identifies tissue structures using dyes.",
+      "b": "Incorrect. Cooking is unrelated to clinical virology assays.",
+      "c": "Incorrect. Neutralization tests are widely used in animal and human medicine, not restricted to agriculture.",
+      "d": "Correct. Neutralization titers are essential in vaccine development to measure the functional protective antibody responses elicited."
+    }
+  },
+  {
+    "question": "Neutralizing antibodies bind to:",
+    "answers": {
+      "a": "Host DNA",
+      "b": "Viral surface proteins",
+      "c": "Water molecules",
+      "d": "Plate surface"
+    },
+    "correctAnswer": "b",
+    "explanations": {
+      "a": "Incorrect. Autoantibodies might bind to host DNA in autoimmune disease, but they are not neutralizing viral antibodies.",
+      "b": "Correct. Neutralizing antibodies specifically target outer viral surface glycoproteins or capsids to block host cell entry.",
+      "c": "Incorrect. Antibodies are hydrophilic but do not specifically target water molecules.",
+      "d": "Incorrect. Non-specific binding to plastic plates is blocked using washing buffers."
+    }
+  }
+]
